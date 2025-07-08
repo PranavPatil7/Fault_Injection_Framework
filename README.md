@@ -4,10 +4,6 @@
 
 <h2 align="center">TensorFI 2: A fault injector for TensorFlow 2 applications</h2>
 
-[![GitHub license](https://img.shields.io/github/license/DependableSystemsLab/TensorFI2)](https://github.com/DependableSystemsLab/TensorFI2/blob/master/LICENSE)
-![GitHub language count](https://img.shields.io/github/languages/count/DependableSystemsLab/TensorFI2)
-![GitHub top language](https://img.shields.io/github/languages/top/DependableSystemsLab/TensorFI2)
-[![GitHub issues](https://img.shields.io/github/issues/DependableSystemsLab/TensorFI2)](https://github.com/DependableSystemsLab/TensorFI2/issues)
 
 ```
 By far the greatest danger of Artificial Intelligence is that
@@ -121,6 +117,3 @@ To use TensorFI 2 in a generic ML model (that is not in [experiments](https://gi
 
 The above line of injection code is for injection into the layer states with the particular configuration listed previously. Refer the READMEs in [conf](https://github.com/DependableSystemsLab/TensorFI2/tree/master/conf), [experiments](https://github.com/DependableSystemsLab/TensorFI2/tree/master/experiments) and [case-studies](https://github.com/DependableSystemsLab/TensorFI2/tree/master/case-studies) directories for further usage and experiments with the tool.
 
-### Contributing
-
-We encourage all relevant contributions - in the form of ideas, issues, bug fixes, code and documentation. Thank you for trying out and/or contributing to our tool. Refer the [contributing](https://github.com/DependableSystemsLab/TensorFI2/tree/master/CONTRIBUTING.md) guidelines for more information.
